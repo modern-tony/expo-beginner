@@ -4,7 +4,7 @@ Get Started with Expo
 ## About this tutorial
 The objective of this tutorial is to get started with Expo and become familiar with the Expo SDK. It'll cover the following topics:
 
-* Create an Expo App
+* Create an Expo App [x]
 * Break down the app layout and implement it with flexbox
 * Use each platform's system UI to select an image from the media library
 * Create a sticker modal using the <Modal> and <FlatList> components from React Native
